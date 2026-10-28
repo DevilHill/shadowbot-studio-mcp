@@ -1,0 +1,20 @@
+# Local application state can contain source code, credentials and project paths.
+.state/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+*.db
+*.db-*
+*.bak
+*.zip
+*_validation.json
+*_probe_result.json
+diagnostic-report*.json
+contracts/
+.idea/
+.vscode/

@@ -1,0 +1,9 @@
+shadowbot-studio-mcp
+Copyright 2026 shadowbot-studio-mcp contributors
+
+This project contains an independently written local MCP bridge and tests.
+It does not include the ShadowBot application, extracted tool catalogs,
+decompiled vendor source, or user workflow data.
+
+ShadowBot and other product names are used to identify compatible software.
+This project is not affiliated with or endorsed by their owners.

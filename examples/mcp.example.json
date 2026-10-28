@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "shadowbot_studio": {
+      "command": "C:\\path\\to\\python.exe",
+      "args": ["C:\\path\\to\\shadowbot-studio-mcp\\stdio_server.py"],
+      "env": {"PYTHONUTF8": "1"}
+    }
+  }
+}
